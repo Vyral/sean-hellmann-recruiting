@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Have What It Takes to Join Our Team?
-date: 2019-07-22 14:08:37
+date: 2019-07-22 14:08:00
 tags:
   - Transaction Management
 excerpt: Our team is growing. Do you have what it takes to grow with us?
