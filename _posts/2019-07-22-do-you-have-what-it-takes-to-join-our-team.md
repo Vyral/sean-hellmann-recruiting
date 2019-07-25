@@ -10,8 +10,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/7-19-2---sean-hellmann---youtube.jpg
-youtube_code: er1kbkQeqhc
+youtube_alternate_image: /uploads/7-19-2---sean-hellmann---youtube-1.jpg
+youtube_code: WQiy_xhaT8U
 ---
 
 {% include youtube.html %}
