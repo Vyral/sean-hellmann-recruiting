@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/7-19-2---sean-hellmann---youtube.jpg
-youtube_code: Zk1y_CBa04Q
+youtube_code: er1kbkQeqhc
 ---
 
 {% include youtube.html %}
