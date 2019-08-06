@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can Your Database Do for You?
-date: 2019-08-06 19:53:27
+date: 2019-08-06 19:53:00
 tags:
   - Transaction Management
 excerpt: >-
