@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Did you know that your database is the most important tool to have to grow
   your business? Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Hellmann/Recruiting+Videos/What+Can+Your+Database+Do+for+You_.mp4
 pullquote: Make sure you’re building that sphere of influence at all times.
 enclosure_type: video/mp4
 enclosure_time:
