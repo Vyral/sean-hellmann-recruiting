@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What a Business Coach Can Do for Your Success in Real Estate
-date: 2019-08-20 14:32:43
+date: 2019-08-20 14:32:00
 tags:
   - Transaction Management
 excerpt: >-
