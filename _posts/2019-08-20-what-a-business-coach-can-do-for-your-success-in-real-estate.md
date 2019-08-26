@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Having a business coach is essential to your success in real estate. Here’s
   why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Hellmann/Recruiting+Videos/sean+recruiting.mp4
 pullquote: It’s important to recognize that you can’t and shouldn’t go it alone.
 enclosure_type: video/mp4
 enclosure_time:
