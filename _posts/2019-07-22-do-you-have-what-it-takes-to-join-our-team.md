@@ -5,7 +5,8 @@ date: 2019-07-22 14:08:00
 tags:
   - Transaction Management
 excerpt: Our team is growing. Do you have what it takes to grow with us?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Hellmann/Recruiting+Videos/Do+You+Have+What+It+Takes+to+Join+Our+Team_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
